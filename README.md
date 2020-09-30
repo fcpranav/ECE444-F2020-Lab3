@@ -20,4 +20,6 @@ My name is Pranav Patel and this repo is a clone of https://github.com/miguelgri
 
 ## Activity 3
 
+Briefly summarize the difference between SQL or NoSQL database.
+
 SQL databases follow a relational model while NoSQL databases follow a non-relational model. SQL databases are compact and avoid duplication with their use of tables and relationships. NoSQL databases have more duplication and are document-oriented or key-valued. NoSQL databases however can perform better than SQL databases.
