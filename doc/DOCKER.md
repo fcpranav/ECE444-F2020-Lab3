@@ -26,6 +26,6 @@ There are two Docker related files: `Dockerfile` and `docker-compose.yml`. Both 
 
 # Docker vs Virtual Machine
 
-A Virtual Machine runs a full-blown operating system while a Docker container runs natively and shares the host kernel. A Docker container is light-weight whereas a Virtual Machine has much more overhead in terms of system resources. A Docker container looks no different than any other application process.
+A Virtual Machine runs a full-blown operating system while a Docker container runs natively and shares the host kernel. A Docker container is light-weight whereas a Virtual Machine has much more overhead in terms of system resources. A Docker container runs as a separate process.
 
 Source: https://docs.docker.com/get-started/
